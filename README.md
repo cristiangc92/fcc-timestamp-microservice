@@ -6,6 +6,8 @@ Nota: El propósito de este proyecto no es la versión de zonas horarias, por lo
 
 #
 
+# Tests
+
 ✅ Debes proporcionar tu propio proyecto, no la URL del ejemplo.<br><br>
 ✅ Una petición para /api/:date? con una fecha válida debe devolver un objeto JSON con una clave unix que es una marca de tiempo Unix de la fecha de entrada en milisegundos (como tipo Número).<br><br>
 ✅ Una petición para /api/:date? con una fecha válida debe devolver un objeto JSON con una clave utc que es una cadena de la fecha de entrada en el formato: Thu, 01 Jan 1970 00:00:00 GMT.<br><br>
