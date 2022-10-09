@@ -1,6 +1,6 @@
 # Microservicio de marca de tiempo
 
-<h3>Crea una aplicación full stack de JavaScript que sea funcionalmente similar a esta: https://timestamp-microservice.freecodecamp.rocks/.
+<h3>Crea una aplicación full stack de JavaScript que sea funcionalmente similar a esta: https://timestamp-microservice.freecodecamp.rocks/ .
 <br><br>
 Nota: El propósito de este proyecto no es la versión de zonas horarias, por lo que asume que todas las fechas válidas enviadas serán analizadas con new Date() como fechas GMT.</h3>
 
